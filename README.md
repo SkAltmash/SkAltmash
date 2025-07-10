@@ -23,60 +23,85 @@
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 <a href="https://twitter.com/@AltmashThe6081">
-  <img src="htt
-    ps://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 # 🛠️ Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mongodb,git,github,tailwind,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,mongodb,git,github,tailwind,vscode,vercel,netlify" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
-✨ [ZapSplit](https://github.com/SkAltmash/ZapSplit) — Expense splitting & UPI app  
-✨ [FlickStreamV2](https://flickstreamvtwo.netlify.app/) — FlickStream V2  Movie streaming app with TMDB, Firebase chat, real-time comments, and watchlist.
-✨ [Trendora](https://astrendora.netlify.app/) — Trendora E-commerce Modern E-commerce app built with React & Firebase. Full Admin Panel, Cart,Product Manager.
+# 🚀 Featured Projects
 
-
+<table>
+<tr>
+<td>
+  <img src="https://raw.githubusercontent.com/SkAltmash/ZapSplit/main/public/logo192.png" width="100">
+</td>
+<td>
+  <strong><a href="https://github.com/SkAltmash/ZapSplit">ZapSplit</a></strong>  
+  <br/> Expense splitting & UPI app
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://skaltamashportfolio.netlify.app/assets/flickstreamV2.png" width="100">
+</td>
+<td>
+  <strong><a href="https://flickstreamvtwo.netlify.app/">FlickStream V2</a></strong>  
+  <br/> Movie streaming app with TMDB, Firebase chat, real-time comments, and watchlist.
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://skaltamashportfolio.netlify.app/assets/trendora.png" width="100">
+</td>
+<td>
+  <strong><a href="https://astrendora.netlify.app/">Trendora</a></strong>  
+  <br/> Modern e-commerce app built with React & Firebase with full admin panel, product manager.
+</td>
+</tr>
+</table>
 
 ---
 
 # 📈 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SkAltmash&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=SkAltmash&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAltmash&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://komarev.com/ghpvc/?username=SkAltmash&style=for-the-badge&color=brightgreen" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=SkAltmash&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SkAltmash&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAltmash&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🌌 Contribution Activity Graph
+# 🌌 Contribution Activity Graph + Heatmap
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkAltmash&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkAltmash&theme=dracula&area=true" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SkAltmash/SkAltmash/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 📚 Currently Learning & Next Goals
-- 🔷 TypeScript & Next.js
-- 🔷 Advanced Firebase & Firestore
-- 🔷 Backend with Node & Express
-- 🔷 Building scalable & secure full-stack apps
+# 🎯 Goals & Next Steps
+✅ Learn TypeScript & Next.js  
+✅ Master Firebase & Firestore advanced features  
+✅ Build scalable & secure full-stack apps  
+✅ Contribute more to open-source 🌟  
+✅ Get a Frontend Internship 🚀
 
-- 
 ---
 
 # ☕ Support Me
 <p align="center">
-If you like what I do and want to support me:
+If you enjoy my work and want to keep me caffeinated:  
 <br>
 <a href="https://buymeacoffee.com/sk_altamash18">
   <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
@@ -90,5 +115,15 @@ If you like what I do and want to support me:
 
 ---
 
+# 👁️ Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SkAltmash&style=for-the-badge&color=brightgreen" />
+</p>
+
+---
+
 # 🚀 Thanks for visiting!
-*Have a great day & happy coding! 👨‍💻✨* perfect but more advance and also need het map but advance 
+*Have a great day & happy coding! 👨‍💻✨*
+
+---
+
