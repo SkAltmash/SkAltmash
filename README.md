@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 <a href="https://twitter.com/@AltmashThe6081">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="htt
+    ps://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 </p>
@@ -40,7 +41,7 @@
 # 🌟 Featured Projects
 ✨ [ZapSplit](https://github.com/SkAltmash/ZapSplit) — Expense splitting & UPI app  
 ✨ [FlickStreamV2](https://flickstreamvtwo.netlify.app/) — FlickStream V2  Movie streaming app with TMDB, Firebase chat, real-time comments, and watchlist.
-✨ [Your Other Project](https://astrendora.netlify.app/) — Trendora E-commerce Modern E-commerce app built with React & Firebase. Full Admin Panel, Cart, Coupon System, Product Manager – fully responsive!
+✨ [Trendora](https://astrendora.netlify.app/) — Trendora E-commerce Modern E-commerce app built with React & Firebase. Full Admin Panel, Cart, Coupon System, Product Manager – fully responsive!
 
 
 
@@ -58,13 +59,6 @@
 # 🌌 Contribution Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkAltmash&theme=react-dark" />
-</p>
-
----
-
-# 🐍 Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SkAltmash/SkAltmash/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
