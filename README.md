@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SkAltmash/SkAltmash/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SkAltmash/SkAltmash/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
