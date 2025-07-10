@@ -22,12 +22,10 @@
 <a href="https://skaltamashportfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
-<a href="https://twitter.com/YOUR-TWITTER">
+<a href="https://twitter.com/@AltmashThe6081">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://www.buymeacoffee.com/YOUR-BUYMEACOFFEE-LINK">
-  <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
+
 </p>
 
 ---
@@ -41,8 +39,10 @@
 
 # 🌟 Featured Projects
 ✨ [ZapSplit](https://github.com/SkAltmash/ZapSplit) — Expense splitting & UPI app  
-✨ [FlickStream](https://github.com/SkAltmash/FlickStream) — Streaming movies & shows  
-✨ [Your Other Project](https://github.com/SkAltmash) — Description here
+✨ [FlickStreamV2](https://flickstreamvtwo.netlify.app/) — FlickStream V2  Movie streaming app with TMDB, Firebase chat, real-time comments, and watchlist.
+✨ [Your Other Project](https://astrendora.netlify.app/) — Trendora E-commerce Modern E-commerce app built with React & Firebase. Full Admin Panel, Cart, Coupon System, Product Manager – fully responsive!
+
+
 
 ---
 
