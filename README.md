@@ -41,7 +41,7 @@
 # 🌟 Featured Projects
 ✨ [ZapSplit](https://github.com/SkAltmash/ZapSplit) — Expense splitting & UPI app  
 ✨ [FlickStreamV2](https://flickstreamvtwo.netlify.app/) — FlickStream V2  Movie streaming app with TMDB, Firebase chat, real-time comments, and watchlist.
-✨ [Trendora](https://astrendora.netlify.app/) — Trendora E-commerce Modern E-commerce app built with React & Firebase. Full Admin Panel, Cart, Coupon System, Product Manager – fully responsive!
+✨ [Trendora](https://astrendora.netlify.app/) — Trendora E-commerce Modern E-commerce app built with React & Firebase. Full Admin Panel, Cart,Product Manager.
 
 
 
@@ -52,6 +52,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SkAltmash&show_icons=true&theme=radical&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=SkAltmash&theme=radical&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAltmash&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=SkAltmash&style=for-the-badge&color=brightgreen" />
+
 </p>
 
 ---
@@ -69,27 +71,14 @@
 - 🔷 Backend with Node & Express
 - 🔷 Building scalable & secure full-stack apps
 
----
-
-# ✨ Latest Blog Posts / Repos
-<!-- BLOG-POST-LIST:START -->
-*(your latest blog posts will appear here if you set up the workflow — I can help you configure it too!)*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# 👁️ Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkAltmash&style=for-the-badge&color=brightgreen" />
-</p>
-
+- 
 ---
 
 # ☕ Support Me
 <p align="center">
 If you like what I do and want to support me:
 <br>
-<a href="https://www.buymeacoffee.com/YOUR-BUYMEACOFFEE-LINK">
+<a href="https://buymeacoffee.com/sk_altamash18">
   <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 </p>
