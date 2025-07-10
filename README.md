@@ -5,7 +5,7 @@
 
 ---
 
-# 🌟 About Me
+# 🌟 About Me  
 🎨 Creative & passionate **Web Developer** from Maharashtra, India.  
 📚 Currently diving deeper into MERN stack & cloud technologies.  
 🤝 Open to collaborations, internships & open-source contributions.  
@@ -14,7 +14,7 @@
 
 ---
 
-# 🔗 Connect With Me
+# 🔗 Connect With Me  
 <p align="center">
 <a href="https://linkedin.com/in/altamash-sheikh-1ba6a72aa">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,80 +22,78 @@
 <a href="https://skaltamashportfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
-<a href="https://twitter.com/AltmashThe6081">
+<a href="https://twitter.com/@AltmashThe6081">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://www.buymeacoffee.com/YOUR-BUYMEACOFFEE-LINK">
-  <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
+
 </p>
 
 ---
 
 # 🛠️ Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,ts,nextjs,firebase,mongodb,git,github,tailwind,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mongodb,git,github,tailwind,vscode,vercel" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-📌 [**ZapSplit**](https://github.com/SkAltmash/ZapSplit) — Expense splitting & UPI app  
-📌 [**FlickStream V2**](https://flickstreamvtwo.netlify.app/) — Streaming app with TMDB, real-time comments & watchlist  
-📌 [**Trendora**](https://astrendora.netlify.app/) — Modern e-commerce with admin panel, coupons, cart & more  
+# 🌟 Featured Projects
+✨ [ZapSplit](https://github.com/SkAltmash/ZapSplit) — Expense splitting & UPI app  
+✨ [FlickStreamV2](https://flickstreamvtwo.netlify.app/) — FlickStream V2  Movie streaming app with TMDB, Firebase chat, real-time comments, and watchlist.
+✨ [Your Other Project](https://astrendora.netlify.app/) — Trendora E-commerce Modern E-commerce app built with React & Firebase. Full Admin Panel, Cart, Coupon System, Product Manager – fully responsive!
+
+
 
 ---
 
 # 📈 My GitHub Stats
-<div align="center">
-
-[![](https://github-readme-stats.vercel.app/api?username=SkAltmash&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![](https://streak-stats.demolab.com?user=SkAltmash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkAltmash&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-# 🌌 Contribution Heatmap
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph.svg?username=SkAltmash&theme=rogue" alt="activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SkAltmash&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SkAltmash&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkAltmash&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-# 🗺️ Advanced Heatmap (3D)
+# 🌌 Contribution Activity Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yogeshwaran01/yogeshwaran01/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SkAltmash&theme=react-dark" />
 </p>
 
 ---
 
-# 📚 Currently Learning & Goals
-- 🔷 TypeScript & Next.js  
-- 🔷 Advanced Firebase & Firestore  
-- 🔷 Backend with Node & Express  
-- 🔷 DevOps & Deployment at scale  
+# 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkAltmash/SkAltmash/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📚 Currently Learning & Next Goals
+- 🔷 TypeScript & Next.js
+- 🔷 Advanced Firebase & Firestore
+- 🔷 Backend with Node & Express
+- 🔷 Building scalable & secure full-stack apps
 
 ---
 
 # ✨ Latest Blog Posts / Repos
 <!-- BLOG-POST-LIST:START -->
-*(your latest blog posts will appear here once you configure the workflow — I can help you set it up!)*
+*(your latest blog posts will appear here if you set up the workflow — I can help you configure it too!)*
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 # 👁️ Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SkAltmash/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=SkAltmash&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
 
 # ☕ Support Me
 <p align="center">
-If you enjoy my work & want to support me:
+If you like what I do and want to support me:
 <br>
 <a href="https://www.buymeacoffee.com/YOUR-BUYMEACOFFEE-LINK">
   <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
@@ -109,5 +107,5 @@ If you enjoy my work & want to support me:
 
 ---
 
-# 🌠 Thanks for stopping by!
-✨ *Have a great day & happy coding! 👨‍💻🚀*
+# 🚀 Thanks for visiting!
+*Have a great day & happy coding! 👨‍💻✨* perfect but more advance and also need het map but advance 
