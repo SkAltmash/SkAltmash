@@ -39,6 +39,16 @@
 # 🚀 Featured Projects
 
 <table>
+
+<tr>
+<td>
+  <img src="https://github.com/SkAltmash/NexTalk-the-chatApp/blob/main/screenshots/wellcome.jpg" width="100">
+</td>
+<td>
+  <strong><a href="https://github.com/SkAltmash/NexTalk-the-chatApp">NexTalk</a></strong>  
+  <br/> Real-Time Chat App (React Native + Node.js + Socket.IO)
+</td>
+</tr>
 <tr>
 <td>
   <img src="https://github.com/SkAltmash/ZapSplit/blob/main/public/ZapSplit.png" width="100">
