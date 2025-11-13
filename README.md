@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td>
-  <img src="https://raw.githubusercontent.com/SkAltmash/ZapSplit/main/public/logo192.png" width="100">
+  <img src="https://github.com/SkAltmash/ZapSplit/blob/main/public/ZapSplit.png" width="100">
 </td>
 <td>
   <strong><a href="https://github.com/SkAltmash/ZapSplit">ZapSplit</a></strong>  
